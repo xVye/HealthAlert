@@ -5,6 +5,7 @@
 ## Version: 9.0.2-alpha
 ## SavedVariables: HealthAlertOptions
 ## DefaultState: enabled
+## X-Curse-Project-ID: 426369
 ## Author: xVye
 
 Libs\LibStub\LibStub.lua
