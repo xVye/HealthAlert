@@ -19,3 +19,5 @@ externals:
 ignore:
     - README.md
     - CHANGELOG.md
+
+license-output: LICENSE
