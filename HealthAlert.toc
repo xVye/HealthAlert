@@ -2,7 +2,7 @@
 ## X-Min-Interface: 90002
 ## Title: HealthAlert
 ## Notes: Warns whenever health gets low
-## Version: 9.0.2_1
+## Version: 9.0.2.0
 ## SavedVariables: HealthAlertOptions
 ## DefaultState: enabled
 ## X-Curse-Project-ID: 426369
