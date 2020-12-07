@@ -1,0 +1,19 @@
+## Interface: 90002
+## X-Min-Interface: 90002
+## Title: HealthAlert
+## Notes: Warns whenever health gets low
+## Version: 9.0.2-alpha
+## SavedVariables: HealthAlertOptions
+## DefaultState: enabled
+## Author: xVye
+
+Libs\LibStub\LibStub.lua
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\LibSharedMedia-3.0\lib.xml
+Libs\ForAllIndentsAndPurposes.lua
+
+Core.lua
+OptionsPanel.lua
